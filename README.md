@@ -2,7 +2,7 @@
 
 This repository contains the documentation for Lab 7 on FortiGate Web Filtering. The lab focuses on configuring FortiGate devices to control web traffic using FortiGuard Web Filtering, ensuring secure and controlled access to the internet. The steps outlined include how to enforce access control, configure user authentication, apply web rating overrides, and troubleshoot common issues that may arise during configuration.
 
-**Features**
+**Features:**
 - Network Topology Diagram: This diagram shows the FortiGate firewall setup, connecting the LAN, FortiGate, and WAN, and illustrating how web filtering is implemented.
 
 - Configuration Steps: Clear, step-by-step instructions are provided to guide you through setting up web filtering, including both CLI and GUI commands, as well as how to configure policies and authentication.
@@ -11,7 +11,7 @@ This repository contains the documentation for Lab 7 on FortiGate Web Filtering.
 
 - Troubleshooting: This section includes solutions to common issues such as blocked pages not displaying, authentication prompts failing, or overrides not applying correctly, along with helpful troubleshooting commands.
 
-**Prerequisites**
+**Prerequisites:**
 
 Before you begin, ensure that you have the following:
 
@@ -20,7 +20,7 @@ Before you begin, ensure that you have the following:
 - Access to LDAP or Active Directory for user authentication if needed.
 - Basic understanding of networking, firewall configuration, and web filtering.
 
-**Structure**
+**Structure:**
 - Network Topology: Describes the setup of the network, detailing how the devices are connected and how traffic is filtered.
 
 -  Equipment/Components: Information on the hardware and software used in the lab.
@@ -34,7 +34,7 @@ Before you begin, ensure that you have the following:
 
 - A summary of the key takeaways from the lab and the results of the configurations applied.
 
-**How to Use**
+**How to Use:**
 - Clone or Download the repository to access the documentation and configuration examples.
 
 - Follow the configuration steps outlined in the document to set up web filtering on your FortiGate device.
@@ -43,7 +43,7 @@ Before you begin, ensure that you have the following:
 
 - If issues arise, refer to the troubleshooting section for guidance on resolving common problems.
 
-**License**
+**License:**
 
 This documentation is provided as-is. There are no warranties or guarantees implied, and it is intended for educational purposes.
 
